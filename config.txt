@@ -1,9 +1,9 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx38fdafbf7d94c75c",
+"app_id": "wx456fce4b4dff4f1a",
 # 公众号appSecret
-"app_secret": "841697bc178b3d99e071ba494299c915",
+"app_secret": "4449a35d9d07851b21a40509c06929d7",
 # 模板消息id
 "template_id": "CotDOGq9ZUIhULGYhF7cLAGHarMTK-836FUDBsF7sP0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
